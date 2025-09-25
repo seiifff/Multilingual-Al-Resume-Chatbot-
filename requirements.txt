@@ -1,0 +1,9 @@
+sentence-transformers>=2.2.0
+faiss-cpu
+transformers>=4.30
+torch>=2.0
+accelerate
+pdfplumber
+nltk
+scikit-learn
+streamlit
